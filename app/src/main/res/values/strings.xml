@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RicknMorty</string>
+    <string name="characters">Characters</string>
+    <string name="episodes">Episodes</string>
+</resources>
